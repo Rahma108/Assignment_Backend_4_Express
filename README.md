@@ -1,4 +1,4 @@
-Description
+📌Description
 
 This project is a RESTful API built using Node.js and Express.js that performs CRUD operations on a collection of users stored in a JSON file. It demonstrates handling of HTTP requests, query parameters, route parameters, and proper error handling.
 
